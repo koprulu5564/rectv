@@ -6,7 +6,7 @@ import os
 
 def generate_m3u():
     # API ayarları
-    api_url = "https://m.prectv49.sbs"
+    api_url = "https://m.prectv50.sbs"
     api_key = "4F5A9C3D9A86FA54EACEDDD635185/c3c5bd17-e37b-4b94-a944-8a3688a30452"
     
     # Kategoriler
