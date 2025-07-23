@@ -9,9 +9,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write  # Push işlemi için gerekli izin
+    
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Tüm commit geçmişini al
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -24,6 +29,8 @@ jobs:
         pip install -r requirements.txt
     
     - name: Generate M3U file
+      env:
+        API_KEY: ${{ secrets.API_KEY }}
       run: python rectv.py
     
     - name: Commit and push changes
@@ -31,5 +38,5 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add rectv_full.m3u
-        git commit -m "Automated M3U playlist update"
+        git diff --quiet && git diff --staged --quiet || git commit -m "Automated M3U playlist update [skip ci]"
         git push
