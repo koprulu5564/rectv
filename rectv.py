@@ -7,11 +7,9 @@ import sys
 from typing import Dict, List, Optional, Any
 
 def log_message(message: str):
-    """Hata ayıklama mesajlarını konsola yazdır"""
     print(f"[DEBUG] {message}", file=sys.stderr)
 
 def get_current_main_url() -> str:
-    """GitHub'dan güncel main URL'yi al"""
     try:
         kotlin_url = "https://raw.githubusercontent.com/kerimmkirac/cs-kerim/master/RecTV/src/main/kotlin/com/keyiflerolsun/RecTV.kt"
         req = urllib.request.Request(kotlin_url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -19,17 +17,13 @@ def get_current_main_url() -> str:
         with urllib.request.urlopen(req, timeout=10) as response:
             content = response.read().decode('utf-8')
             if match := re.search(r'override\s+var\s+mainUrl\s*=\s*"([^"]+)"', content):
-                log_message(f"GitHub'dan alınan URL: {match.group(1)}")
                 return match.group(1)
     except Exception as e:
         log_message(f"URL kontrol hatası: {e}")
     
-    default_url = "https://m.prectv50.sbs"
-    log_message(f"Varsayılan URL kullanılıyor: {default_url}")
-    return default_url
+    return "https://m.prectv50.sbs"
 
 def check_url_accessible(url: str) -> bool:
-    """URL'nin erişilebilir olup olmadığını kontrol et"""
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'okhttp/4.12.0'}, method='HEAD')
         with urllib.request.urlopen(req, timeout=10) as response:
@@ -39,18 +33,15 @@ def check_url_accessible(url: str) -> bool:
         return False
 
 def fetch_data(url: str) -> Optional[Dict[str, Any]]:
-    """API'den veri çek"""
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'okhttp/4.12.0'})
         with urllib.request.urlopen(req, timeout=15) as response:
             return json.loads(response.read().decode('utf-8'))
     except Exception as e:
-        log_message(f"Veri çekme hatası: {e}")
+        log_message(f"Veri çekme hatası: {e} - URL: {url}")
         return None
 
 def generate_m3u():
-    log_message("M3U oluşturma başladı")
-    
     api_key = os.environ.get('API_KEY', "4F5A9C3D9A86FA54EACEDDD635185/c3c5bd17-e37b-4b94-a944-8a3688a30452")
     main_url = get_current_main_url()
     
@@ -63,7 +54,58 @@ def generate_m3u():
             'endpoint': "/api/channel/by/filtres/0/0/SAYFA/{api_key}",
             'sayfalar': list(range(0, 8))
         },
-        # Diğer kategorileri buraya ekleyin
+        "Son Eklenen Filmler": {
+            'endpoint': "/api/movie/by/filtres/0/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Son Eklenen Diziler": {
+            'endpoint': "/api/serie/by/filtres/0/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Aile Filmleri": {
+            'endpoint': "/api/movie/by/filtres/14/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Aksiyon Filmleri": {
+            'endpoint': "/api/movie/by/filtres/1/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Animasyon Filmleri": {
+            'endpoint': "/api/movie/by/filtres/13/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Belgeseller": {
+            'endpoint': "/api/movie/by/filtres/19/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Bilim Kurgu Filmleri": {
+            'endpoint': "/api/movie/by/filtres/4/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Dram Filmleri": {
+            'endpoint': "/api/movie/by/filtres/2/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Fantastik Filmleri": {
+            'endpoint': "/api/movie/by/filtres/10/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Komedi Filmleri": {
+            'endpoint': "/api/movie/by/filtres/3/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Korku Filmleri": {
+            'endpoint': "/api/movie/by/filtres/8/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Macera Filmleri": {
+            'endpoint': "/api/movie/by/filtres/17/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        },
+        "Romantik Filmleri": {
+            'endpoint': "/api/movie/by/filtres/5/created/SAYFA/{api_key}",
+            'sayfalar': list(range(0, 8))
+        }
     }
 
     m3u_content = "#EXTM3U\n"
@@ -79,16 +121,21 @@ def generate_m3u():
             veri = fetch_data(url)
             
             if not veri:
+                log_message(f"Veri alınamadı: {url}")
                 continue
             
             for item in veri:
                 if not item.get('sources') or not item.get('title'):
                     continue
                 
+                stream_url = item['sources'][0]['url']
+                if not stream_url.startswith('http'):
+                    continue
+                
                 kanal = {
                     'ad': item['title'].strip(),
                     'logo': item.get('image', ''),
-                    'url': item['sources'][0]['url']
+                    'url': stream_url
                 }
                 kanallar[kanal['url']] = kanal
         
@@ -97,14 +144,16 @@ def generate_m3u():
             if kanal['logo']:
                 m3u_content += f" tvg-logo=\"{kanal['logo']}\""
             m3u_content += f" group-title=\"{kategori_adi}\",{kanal['ad']}\n"
+            m3u_content += f"#EXTVLCOPT:http-user-agent=googleuseragent\n"
             m3u_content += f"{kanal['url']}\n"
         
+        log_message(f"{kategori_adi} - {len(kanallar)} kanal eklendi")
         m3u_content += "\n"
 
     try:
         with open('rectv_full.m3u', 'w', encoding='utf-8') as f:
             f.write(m3u_content)
-        log_message("M3U dosyası başarıyla oluşturuldu")
+        log_message(f"M3U dosyası oluşturuldu - Toplam {sum(len(v) for v in kategoriler.values())} içerik")
     except Exception as e:
         log_message(f"Dosya yazma hatası: {e}")
         sys.exit(1)
