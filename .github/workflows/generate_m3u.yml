@@ -8,13 +8,13 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 15  # API yanıt süresi için
     
     permissions:
       contents: write
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
@@ -24,21 +24,20 @@ jobs:
         python-version: '3.10'
 
     - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
+      run: pip install requests
 
-    - name: Generate M3U file
+    - name: Generate M3U
       env:
         API_KEY: ${{ secrets.API_KEY }}
       run: |
         python rectv.py
-        echo "Oluşturulan satır sayısı: $(wc -l < rectv_full.m3u)"
+        echo "Oluşturulan dosya boyutu: $(du -h rectv_full.m3u)"
+        echo "Toplam satır: $(wc -l < rectv_full.m3u)"
 
-    - name: Commit and push changes
+    - name: Commit and Push
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add rectv_full.m3u
-        git diff --cached --quiet || git commit -m "Otomatik M3U güncellemesi [skip ci]"
+        git diff --cached --quiet || git commit -m "Auto: M3U Update $(date +'%Y-%m-%d %H:%M')"
         git push
