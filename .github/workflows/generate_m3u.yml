@@ -3,20 +3,20 @@ name: Generate M3U Playlist
 on:
   schedule:
     - cron: '0 */6 * * *'  # Her 6 saatte bir
-  workflow_dispatch:        # Manuel tetikleme için
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write  # Push için tek gerekli izin
+      contents: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Tüm commit geçmişini çek
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -33,23 +33,12 @@ jobs:
         API_KEY: ${{ secrets.API_KEY }}
       run: |
         python rectv.py
-        ls -la  # Oluşan dosyayı kontrol
+        echo "Oluşturulan satır sayısı: $(wc -l < rectv_full.m3u)"
 
     - name: Commit and push changes
       run: |
-        # Dosya kontrolü
-        if [ ! -f "rectv_full.m3u" ]; then
-          echo "Hata: rectv_full.m3u dosyası oluşturulamadı!" >&2
-          exit 1
-        fi
-
-        # Git ayarları
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        
-        # Değişiklikleri ekle
         git add rectv_full.m3u
-        
-        # Değişiklik varsa commit ve push
         git diff --cached --quiet || git commit -m "Otomatik M3U güncellemesi [skip ci]"
         git push
