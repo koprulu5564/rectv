@@ -455,6 +455,14 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9114" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d8edf0563bb5af901af9223f7f3719b0.jpg" group-title="Son Filmler", Cehennem Gibi Bir Yaz
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/AwaGoPC929ZZYVzGA5Pv1SQTMicG0ZuZmy9XJytg.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9113" tvg-name="Lilo & Stiç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dcd66b7362eba90c4c5078b600cd2737.jpg" group-title="Son Filmler", Lilo & Stiç
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/ENPQOveqgqO0L4XJwCwBTVQYKycFqrq49B0c2Uqo.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9112" tvg-name="Osiris" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b4a352ffac328af811eae90411754b92.jpg" group-title="Son Filmler", Osiris
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1475,18 +1483,10 @@ https://load.rectv2024live.com/hls/8/cdn1611/Us3yDBKjFE6AOT7dVItYRrAP3NHEIoG0qhi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/95D4POntdaohHTwkGFQ0EVwIbb3jdov9pGnIGaKn.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8786" tvg-name="Poolman" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d41aa835dc94dcf67129ad17550dbb38.jpg" group-title="Son Filmler", Poolman
+#EXTINF:-1 tvg-id="9113" tvg-name="Lilo & Stiç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dcd66b7362eba90c4c5078b600cd2737.jpg" group-title="Aile", Lilo & Stiç
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/hdy1YkznsYnBT6Z2ByWku0Ob9fC4VVVCQQXU5sUC.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8785" tvg-name="The Brutalist" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8536a660a0176f165eac10f096c9ff1d.jpg" group-title="Son Filmler", The Brutalist
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/S59uoxON5FbC3PnnQqNEd5CguXFE1kHzjAiKDUah.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8785" tvg-name="The Brutalist" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8536a660a0176f165eac10f096c9ff1d.jpg" group-title="Son Filmler", The Brutalist
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/wxLnPS0Lg9D89nnzv4cG5B5crjovanKLWYRM6EWs.mp4/index.m3u8
+https://load.rectv2024live.com/hls/8/cdn1611/ENPQOveqgqO0L4XJwCwBTVQYKycFqrq49B0c2Uqo.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9103" tvg-name="A Girl Named Willow" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/98f65e240f51b8350b4987769ca81148.jpg" group-title="Aile", A Girl Named Willow
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -2503,10 +2503,6 @@ https://load.rectv2024live.com/7/cdn812/m/Lamya/v.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/7/cdn145/m/SuKoruyuculariGeleceginBeslisi/v.m3u8
-#EXTINF:-1 tvg-id="5204" tvg-name="Peter Pan & Wendy" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7d415b4dda40018e11165ba864082d1c.jpg" group-title="Aile", Peter Pan & Wendy
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn145/m/PeterPanWendy/v.m3u8
 #EXTINF:-1 tvg-id="9112" tvg-name="Osiris" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b4a352ffac328af811eae90411754b92.jpg" group-title="Aksiyon", Osiris
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -7935,6 +7931,14 @@ https://load.rectv2024live.com/hls/1/cdn783/m/Mandibles.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/1/cdn783/m/TheMonkeyKing.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9114" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d8edf0563bb5af901af9223f7f3719b0.jpg" group-title="Komedi", Cehennem Gibi Bir Yaz
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/AwaGoPC929ZZYVzGA5Pv1SQTMicG0ZuZmy9XJytg.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9113" tvg-name="Lilo & Stiç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dcd66b7362eba90c4c5078b600cd2737.jpg" group-title="Komedi", Lilo & Stiç
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/ENPQOveqgqO0L4XJwCwBTVQYKycFqrq49B0c2Uqo.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9110" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8895b397accb5392b37e29a725455f3a.jpg" group-title="Komedi", Cehennem Gibi Bir Yaz
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8947,18 +8951,10 @@ https://load.rectv2024live.com/hls/11/cdn62/ffb2dc4fc800560d81b47832617c10271730
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/ede79481e5d01d4096eef9c5a5b6269617303891308.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7977" tvg-name="The Christmas Charade" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/37b933e9710d8a108687c5059d4d308f.jpg" group-title="Komedi", The Christmas Charade
+#EXTINF:-1 tvg-id="9114" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d8edf0563bb5af901af9223f7f3719b0.jpg" group-title="Korku", Cehennem Gibi Bir Yaz
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/b3a5a4762b7f3cb2a3bcbadb84cdac2c17301941778.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7975" tvg-name="Harold ve Mor Tebeşir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/507f9be223182ad31831b3621b192d54.jpg" group-title="Komedi", Harold ve Mor Tebeşir
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/1295c2dcac259fb847ea9e2b3152e94f173019419211.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7975" tvg-name="Harold ve Mor Tebeşir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/507f9be223182ad31831b3621b192d54.jpg" group-title="Komedi", Harold ve Mor Tebeşir
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/5a5412d4587fdc635e03de8af886e83017301942058.mp4/index.m3u8
+https://load.rectv2024live.com/hls/8/cdn1611/AwaGoPC929ZZYVzGA5Pv1SQTMicG0ZuZmy9XJytg.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9112" tvg-name="Osiris" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b4a352ffac328af811eae90411754b92.jpg" group-title="Korku", Osiris
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -10011,14 +10007,10 @@ https://load.rectv2024live.com/hls/9/cdn501/4115b659dae600e7b7de41ba41371dc61723
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/d4f77a4470685decb9b40baff097d513172330130915.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7573" tvg-name="Şeytanla Anlaşma" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5530fc41c07aadc91d82b362c7174137.jpg" group-title="Korku", Şeytanla Anlaşma
+#EXTINF:-1 tvg-id="9113" tvg-name="Lilo & Stiç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dcd66b7362eba90c4c5078b600cd2737.jpg" group-title="Macera", Lilo & Stiç
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/777e5e68e7cf1e9e9180aea4a15aa036172311418510.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7573" tvg-name="Şeytanla Anlaşma" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5530fc41c07aadc91d82b362c7174137.jpg" group-title="Korku", Şeytanla Anlaşma
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/c9470470684e3c411e2cd06c77c34b30172311417012.mp4/index.m3u8
+https://load.rectv2024live.com/hls/8/cdn1611/ENPQOveqgqO0L4XJwCwBTVQYKycFqrq49B0c2Uqo.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9111" tvg-name="Fantastik Dörtlü: İlk Adımlar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/df2cde745cd8ca0ff20fe5e4b2c42009.jpg" group-title="Macera", Fantastik Dörtlü: İlk Adımlar
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -11067,10 +11059,6 @@ https://load.rectv2024live.com/hls/10/cdn32/026954316d2c363f44d5f6c30afbf8fd1711
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/10/cdn32/af8ad146340c2315597d97f1ca290ab1171131606114.mp4/index.m3u8
-#EXTINF:-1 tvg-id="6832" tvg-name="Yüzüklerin Efendisi: Kralın Dönüşü" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c5d8d84e22fc318b2ad2afd7cebdb513.jpg" group-title="Macera", Yüzüklerin Efendisi: Kralın Dönüşü
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/10/cdn32/a4db26ef4ff20e1c691a93fd160d6b5017113150296.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9096" tvg-name="Aşk Sadece Bir An" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7690035d5c9ec462fd91decd70a6a6c2.jpg" group-title="Romantik", Aşk Sadece Bir An
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
