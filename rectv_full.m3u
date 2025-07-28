@@ -455,6 +455,10 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9115" tvg-name="İllegal Hayatlar: Meclis" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/800989a281850f2a205df2cb72a6991c.jpg" group-title="Son Filmler", İllegal Hayatlar: Meclis
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/FsgRZjdOOnogInkjqtC7PT1YjTw2JnjQZrwRpMmG.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9114" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d8edf0563bb5af901af9223f7f3719b0.jpg" group-title="Son Filmler", Cehennem Gibi Bir Yaz
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1479,10 +1483,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/43PBXSoEuZuly9Wssft8UctUtX9yXbrP3V2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/Us3yDBKjFE6AOT7dVItYRrAP3NHEIoG0qhiDZgSG.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8787" tvg-name="Bir Hata" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9e61f699387e55c283f25e8c9f0e9e85.jpg" group-title="Son Filmler", Bir Hata
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/95D4POntdaohHTwkGFQ0EVwIbb3jdov9pGnIGaKn.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9113" tvg-name="Lilo & Stiç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dcd66b7362eba90c4c5078b600cd2737.jpg" group-title="Aile", Lilo & Stiç
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -7931,6 +7931,10 @@ https://load.rectv2024live.com/hls/1/cdn783/m/Mandibles.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/1/cdn783/m/TheMonkeyKing.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9115" tvg-name="İllegal Hayatlar: Meclis" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/800989a281850f2a205df2cb72a6991c.jpg" group-title="Komedi", İllegal Hayatlar: Meclis
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/FsgRZjdOOnogInkjqtC7PT1YjTw2JnjQZrwRpMmG.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9114" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d8edf0563bb5af901af9223f7f3719b0.jpg" group-title="Komedi", Cehennem Gibi Bir Yaz
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8947,10 +8951,6 @@ https://load.rectv2024live.com/hls/11/cdn62/31764edffbb0b404d8542d28d1b72b7a1730
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/ffb2dc4fc800560d81b47832617c102717306458936.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7987" tvg-name="Mitat" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e31e786951e6c5431688e652107640fc.jpg" group-title="Komedi", Mitat
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/ede79481e5d01d4096eef9c5a5b6269617303891308.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9114" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d8edf0563bb5af901af9223f7f3719b0.jpg" group-title="Korku", Cehennem Gibi Bir Yaz
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
