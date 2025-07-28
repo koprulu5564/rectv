@@ -475,6 +475,10 @@ https://load.rectv2024live.com/hls/8/cdn1611/jQZ6Y0HE8iCUpnnnGkwo8FJzUIYBZPd7m76
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/pvzhyHdA79m0KoVu1eXwpiT3zdTvqX4pP3fjEtDt.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9111" tvg-name="Fantastik Dörtlü: İlk Adımlar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/df2cde745cd8ca0ff20fe5e4b2c42009.jpg" group-title="Son Filmler", Fantastik Dörtlü: İlk Adımlar
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/xGmZ6SUR2KztT3UwazvhmyQZReYuterTHy5SqdZX.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9110" tvg-name="Cehennem Gibi Bir Yaz" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8895b397accb5392b37e29a725455f3a.jpg" group-title="Son Filmler", Cehennem Gibi Bir Yaz
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -10015,6 +10019,10 @@ https://load.rectv2024live.com/hls/8/cdn1611/ENPQOveqgqO0L4XJwCwBTVQYKycFqrq49B0
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/pvzhyHdA79m0KoVu1eXwpiT3zdTvqX4pP3fjEtDt.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9111" tvg-name="Fantastik Dörtlü: İlk Adımlar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/df2cde745cd8ca0ff20fe5e4b2c42009.jpg" group-title="Macera", Fantastik Dörtlü: İlk Adımlar
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/xGmZ6SUR2KztT3UwazvhmyQZReYuterTHy5SqdZX.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9103" tvg-name="A Girl Named Willow" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/98f65e240f51b8350b4987769ca81148.jpg" group-title="Macera", A Girl Named Willow
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
