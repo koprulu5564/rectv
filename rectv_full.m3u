@@ -455,6 +455,18 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9122" tvg-name="28 Yıl Sonra" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/aee49169c1e1659920b9bb3a7ef2bf5c.jpg" group-title="Son Filmler", 28 Yıl Sonra
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/G94jAEWGFlPwm90s6uNTOL5yZHriuP3SwzyZl0Qp.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9121" tvg-name="The Life of Chuck" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/26187905164f60edade8ec0331658c28.jpg" group-title="Son Filmler", The Life of Chuck
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/LInzwZL2PaJrT0KUJNnOtiikJOJpMU7o9pYAr3W4.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9120" tvg-name="The Movie Teller" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/93454431d472d846f5b6889d46b115a4.jpg" group-title="Son Filmler", The Movie Teller
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/v6qZ04XWuMz7DCooaE96BMIA8nRU0ZXNb6eibGwh.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9119" tvg-name="Fantastik Dörtlü 2: Gümüş Sörfçü'nün Yükselişi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/857f2e9dd34b5d7f4ddf1596b975a1b8.jpg" group-title="Son Filmler", Fantastik Dörtlü 2: Gümüş Sörfçü'nün Yükselişi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1471,22 +1483,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/a22xeHKZj2cmtGkpGGtHyzXaZ04VaoKUQIi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/wQJPsPh9hMNosvylx1zLELOS6TTWksfTwtRGQHpM.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8800" tvg-name="Sharp Corner" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3861eda1e93bd38ccf776aa7d05a44c6.jpg" group-title="Son Filmler", Sharp Corner
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/cAOm6mekh2HYxLgxbOd7K43nxzLtMxqEmkS4p9j2.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8795" tvg-name="Vini Jr." tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/bccca2c0ecab2eedee3295f339b8cb7f.jpg" group-title="Son Filmler", Vini Jr.
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/dKSHTXPWxBwhgvtQyXUqJKLUC8PPHS52Splm6eOq.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8794" tvg-name="A Working Man" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/20bbd8d4a6703659e9c71e87d6f17046.jpg" group-title="Son Filmler", A Working Man
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/qXLAnd1i9A42hhhbIIWKQNcHGjvHlQFis8yWrC9P.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8794" tvg-name="A Working Man" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/20bbd8d4a6703659e9c71e87d6f17046.jpg" group-title="Son Filmler", A Working Man
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/8pF5eLddHzJyCep4JehtU6Mbr0WpFEzKPp8dNrbp.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9113" tvg-name="Lilo & Stiç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dcd66b7362eba90c4c5078b600cd2737.jpg" group-title="Aile", Lilo & Stiç
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -5867,6 +5863,14 @@ https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZh
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/2/cdn5/cdn/filmler/Contagion%20-%20Salg%C4%B1n%20izle%20-%20BolumD.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9121" tvg-name="The Life of Chuck" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/26187905164f60edade8ec0331658c28.jpg" group-title="Dram", The Life of Chuck
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/LInzwZL2PaJrT0KUJNnOtiikJOJpMU7o9pYAr3W4.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9120" tvg-name="The Movie Teller" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/93454431d472d846f5b6889d46b115a4.jpg" group-title="Dram", The Movie Teller
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/v6qZ04XWuMz7DCooaE96BMIA8nRU0ZXNb6eibGwh.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9118" tvg-name="Jane Austen Hayatımı Mahvetti" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5549b88022f0bce405e2a5d1a2d35caf.jpg" group-title="Dram", Jane Austen Hayatımı Mahvetti
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -6871,14 +6875,10 @@ https://load.rectv2024live.com/hls/8/cdn801/35547c4e08f7db5b601cfcf177d0b9f31737
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn801/2ef4a91e083ab0d8bba29824f6cce3d6173719732210.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8288" tvg-name="Komandir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e4b20e1d6c12b85f436f1e22129eba6a.jpg" group-title="Dram", Komandir
+#EXTINF:-1 tvg-id="9121" tvg-name="The Life of Chuck" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/26187905164f60edade8ec0331658c28.jpg" group-title="Fantastik", The Life of Chuck
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn801/2fcf4145c60bd3800aab69f1357c0360173719737413.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8285" tvg-name="Scorpion" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/81c51ff9b509c9222f583f4db197f43b.jpg" group-title="Dram", Scorpion
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn801/58dc68d255c0686c636808e0897a95d1173710846010.mp4/index.m3u8
+https://load.rectv2024live.com/hls/7/cdn21/LInzwZL2PaJrT0KUJNnOtiikJOJpMU7o9pYAr3W4.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9103" tvg-name="A Girl Named Willow" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/98f65e240f51b8350b4987769ca81148.jpg" group-title="Fantastik", A Girl Named Willow
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -7931,10 +7931,6 @@ https://load.rectv2024live.com/hls/1/cdn783/m/1/HauntedMansionSub.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/1/cdn783/m/Mandibles.mp4/index.m3u8
-#EXTINF:-1 tvg-id="5572" tvg-name="Maymun Kral" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/63b2ea5c4d4bb2249dae5519f650bb37.jpg" group-title="Fantastik", Maymun Kral
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/TheMonkeyKing.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9118" tvg-name="Jane Austen Hayatımı Mahvetti" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5549b88022f0bce405e2a5d1a2d35caf.jpg" group-title="Komedi", Jane Austen Hayatımı Mahvetti
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8955,6 +8951,10 @@ https://load.rectv2024live.com/hls/11/cdn62/c0f3a8089a169c558a0a4e79003c936c1730
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/52e1ad38c8579fc47e9d9b19d8d4fa32173097418113.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9122" tvg-name="28 Yıl Sonra" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/aee49169c1e1659920b9bb3a7ef2bf5c.jpg" group-title="Korku", 28 Yıl Sonra
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/G94jAEWGFlPwm90s6uNTOL5yZHriuP3SwzyZl0Qp.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9117" tvg-name="The Surrender" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e3fdd352f31597a39ee3995527e3fe5f.jpg" group-title="Korku", The Surrender
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -10003,10 +10003,6 @@ https://load.rectv2024live.com/hls/9/cdn501/30a1babce5a57f542f19891da5e536ab1723
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/b0292552b5ad7d8a2d02d1ef2ab7746f172330361910.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7581" tvg-name="The Mill" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dd68d12c659ee5bcd9c061afca31e6f9.jpg" group-title="Korku", The Mill
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/0f87acffa3c8b1127e5ba0135d2140d3172330326615.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9119" tvg-name="Fantastik Dörtlü 2: Gümüş Sörfçü'nün Yükselişi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/857f2e9dd34b5d7f4ddf1596b975a1b8.jpg" group-title="Macera", Fantastik Dörtlü 2: Gümüş Sörfçü'nün Yükselişi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
