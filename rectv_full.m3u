@@ -455,6 +455,10 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Son Filmler", Sev Beni - Love Me
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/fkN5Y7zm4AR6KOMADWSNQuCkLy646IzLGz8bnonn.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9137" tvg-name="Beowulf: Ölümsüz Savaşçı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c237a9849644595a876839c18b1e33b0.jpg" group-title="Son Filmler", Beowulf: Ölümsüz Savaşçı
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1483,10 +1487,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/kxdCgXtD6tZNIy39CsHePr6TeCUw4DvR5gV
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/seaedJz4eWRUBaLUOFUOafslIHa3SrnpSAAhwzWA.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8817" tvg-name="Ziyaretçiler: Bölüm 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b1337e9b6231a1a10e44e83c0f0d2c85.jpg" group-title="Son Filmler", Ziyaretçiler: Bölüm 1
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/YFBprfhvv9wgSaE1N70Ypxc9wPPCBuVi89Y4maRS.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9113" tvg-name="Lilo & Stiç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dcd66b7362eba90c4c5078b600cd2737.jpg" group-title="Aile", Lilo & Stiç
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -3619,6 +3619,10 @@ https://load.rectv2024live.com/hls/9/cdn501/bbb078323665bf91830de711ae2efd7d1724
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/baff21f52b10e4f630b7738a50655b9c17246185579.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Animasyon", Sev Beni - Love Me
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/fkN5Y7zm4AR6KOMADWSNQuCkLy646IzLGz8bnonn.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9137" tvg-name="Beowulf: Ölümsüz Savaşçı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c237a9849644595a876839c18b1e33b0.jpg" group-title="Animasyon", Beowulf: Ölümsüz Savaşçı
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -4627,10 +4631,6 @@ https://load.rectv2024live.com/hls/5/cdn17/Film/kocaayak-ve-oglu-film.mp4/index.
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/5/cdn17/Film/bigfoot-family.mp4/index.m3u8
-#EXTINF:-1 tvg-id="4372" tvg-name="Dragon Ball Super: Super Hero" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/707d2937161493fab0621728d2c88455.jpg" group-title="Animasyon", Dragon Ball Super: Super Hero
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/6/cdn22/Film/DragonBallSuper.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9042" tvg-name="Felaketler Dizisi: 17.000 Davetsiz Misafir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c3fc2216fbf7cf5b6cb8a413e5bc5be1.jpg" group-title="Belgesel Filmleri", Felaketler Dizisi: 17.000 Davetsiz Misafir
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -5871,6 +5871,10 @@ https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZh
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/2/cdn5/cdn/filmler/Contagion%20-%20Salg%C4%B1n%20izle%20-%20BolumD.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Dram", Sev Beni - Love Me
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/fkN5Y7zm4AR6KOMADWSNQuCkLy646IzLGz8bnonn.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9124" tvg-name="Uçuş Planı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/61df69d79aa2c4a15ec24f8e07c73acd.jpg" group-title="Dram", Uçuş Planı
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -6879,10 +6883,6 @@ https://load.rectv2024live.com/hls/8/cdn801/20d75c11db93320e903445dcf0508f0a1737
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn801/9b44fdd0e922275115fc8ca7002e207917373687037.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8295" tvg-name="Konsey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ef03dcfbcdc12a9ef171a5b5061354a6.jpg" group-title="Dram", Konsey
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn801/8200147ae1551677d43efe9f54e9b3ff17372123547.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9121" tvg-name="The Life of Chuck" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/26187905164f60edade8ec0331658c28.jpg" group-title="Fantastik", The Life of Chuck
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -11071,6 +11071,10 @@ https://load.rectv2024live.com/hls/10/cdn32/68531d00eaa9bcf07465f9b6d994dda61711
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/10/cdn32/f2b246ed9ed808fa9c500ed75b65a8a817113160348.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Romantik", Sev Beni - Love Me
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/fkN5Y7zm4AR6KOMADWSNQuCkLy646IzLGz8bnonn.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9118" tvg-name="Jane Austen Hayatımı Mahvetti" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5549b88022f0bce405e2a5d1a2d35caf.jpg" group-title="Romantik", Jane Austen Hayatımı Mahvetti
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -12095,7 +12099,3 @@ https://load.rectv2024live.com/9/cdn333/fb94a275-8b0f-4613-b927-a3e7cdffc35d/fb9
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn911/m/4/Americanish.mp4/index.m3u8
-#EXTINF:-1 tvg-id="6260" tvg-name="Maestro" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/bfc77c7f7d84fb253731470e87c3752a.jpg" group-title="Romantik", Maestro
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn911/m/4/Maestro.mp4/index.m3u8
