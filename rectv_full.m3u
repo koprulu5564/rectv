@@ -455,6 +455,22 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9146" tvg-name="Son Durak: Kan Bağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5e07edcf6e935e6ca2b50a5cd69bff01.jpg" group-title="Son Filmler", Son Durak: Kan Bağı
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/2kCmQxw067tUouR19ngDSwvEIQ6tap197SVbko8X.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9146" tvg-name="Son Durak: Kan Bağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5e07edcf6e935e6ca2b50a5cd69bff01.jpg" group-title="Son Filmler", Son Durak: Kan Bağı
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/YYJBjahZUHKSuSrYh2nNdLMIqn0WFJlOIumaLqDa.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9145" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9282961b59dfb10bc4afaf1e732d766c.jpg" group-title="Son Filmler", The Monkey
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/QKZB9bmtfbApTiMDJa80kfYaUtQuXhyAyJFCkp28.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9145" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9282961b59dfb10bc4afaf1e732d766c.jpg" group-title="Son Filmler", The Monkey
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/11/cdn65/Mg6UPmg0T4Hl77y6FF3eSCHXDWPR1lP0v62pmToC.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-name="Samia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd75828957a56841b9b451b5dfe63569.jpg" group-title="Son Filmler", Samia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1479,14 +1495,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/do1JWuFXcvGGSQX3mrd6kn5vEf3wdnwSKoM
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/O9LCMyN7xv6R7hk5ZmCPraAXU0uAGOhUnIJolCmk.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8824" tvg-name="Gidecek Yer Yok" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3a2297d73f8437ef80731e1d6cea6489.jpg" group-title="Son Filmler", Gidecek Yer Yok
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/EaEuOlXkWO36YitBwanXkeah7MFBhabADj66zlAd.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8822" tvg-name="Sınırların Ötesinde" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7e1bbdb705cf82ee238a2530f853d352.jpg" group-title="Son Filmler", Sınırların Ötesinde
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/nC3aV9KWgIOHSwyUlp3cFK8rkbJcBuIaYW9J7Kkx.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-name="Samia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd75828957a56841b9b451b5dfe63569.jpg" group-title="Aile", Samia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -7939,6 +7947,14 @@ https://load.rectv2024live.com/hls/1/cdn783/m/1/HauntedMansionSub.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/1/cdn783/m/Mandibles.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9145" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9282961b59dfb10bc4afaf1e732d766c.jpg" group-title="Komedi", The Monkey
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/QKZB9bmtfbApTiMDJa80kfYaUtQuXhyAyJFCkp28.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9145" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9282961b59dfb10bc4afaf1e732d766c.jpg" group-title="Komedi", The Monkey
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/11/cdn65/Mg6UPmg0T4Hl77y6FF3eSCHXDWPR1lP0v62pmToC.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9141" tvg-name="My Oxford Year" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a726409ea286969c9a38c96357a40fe1.jpg" group-title="Komedi", My Oxford Year
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8391,10 +8407,6 @@ https://load.rectv2024live.com/hls/11/cdn65/R9wW4edTNXy17isYByZD1m9bnFb9sOdpY1xp
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn65/OOcymmH9ICxElEmybwc6Fs7laXHudsw2o7tc1P9x.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8627" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6b02cb1a15a52dee754f988b2bde6cbc.jpg" group-title="Komedi", The Monkey
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn65/Mg6UPmg0T4Hl77y6FF3eSCHXDWPR1lP0v62pmToC.mp4/index.m3u8
 #EXTINF:-1 tvg-id="8618" tvg-name="Cesur Panda Görevimiz Afrika" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c257dbbd8624a97a8c1cfbcd76f7bc63.jpg" group-title="Komedi", Cesur Panda Görevimiz Afrika
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8951,6 +8963,22 @@ https://load.rectv2024live.com/hls/11/cdn62/5d935bbba57ff76e9d234810afd785851730
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/cf3436775c31bd81f760b256499ed75e17309743356.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9146" tvg-name="Son Durak: Kan Bağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5e07edcf6e935e6ca2b50a5cd69bff01.jpg" group-title="Korku", Son Durak: Kan Bağı
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/2kCmQxw067tUouR19ngDSwvEIQ6tap197SVbko8X.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9146" tvg-name="Son Durak: Kan Bağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5e07edcf6e935e6ca2b50a5cd69bff01.jpg" group-title="Korku", Son Durak: Kan Bağı
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/8/cdn1611/YYJBjahZUHKSuSrYh2nNdLMIqn0WFJlOIumaLqDa.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9145" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9282961b59dfb10bc4afaf1e732d766c.jpg" group-title="Korku", The Monkey
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/QKZB9bmtfbApTiMDJa80kfYaUtQuXhyAyJFCkp28.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9145" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9282961b59dfb10bc4afaf1e732d766c.jpg" group-title="Korku", The Monkey
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/11/cdn65/Mg6UPmg0T4Hl77y6FF3eSCHXDWPR1lP0v62pmToC.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9142" tvg-name="Şeytan Tohumları" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/69c17993961c4fcc412084f6b81afbbd.jpg" group-title="Korku", Şeytan Tohumları
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -9195,14 +9223,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/YFBprfhvv9wgSaE1N70Ypxc9wPPCBuVi89Y
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/S8EaR5Vpb1UHEJvjO8wJYCnuHEz8JbzXlOdCTXKr.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8806" tvg-name="Son Durak: Kan Bağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/abf8f616f74e1a6afc14feedfe40e482.jpg" group-title="Korku", Son Durak: Kan Bağı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/YYJBjahZUHKSuSrYh2nNdLMIqn0WFJlOIumaLqDa.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8806" tvg-name="Son Durak: Kan Bağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/abf8f616f74e1a6afc14feedfe40e482.jpg" group-title="Korku", Son Durak: Kan Bağı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/66CHdjbhcav0MD5jgOuBz1EMVHVhrKTcx81lNRON.mp4/index.m3u8
 #EXTINF:-1 tvg-id="8803" tvg-name="Sting" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3904912757a60124f7c47273683c5542.jpg" group-title="Korku", Sting
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -9327,10 +9347,6 @@ https://load.rectv2024live.com/hls/11/cdn65/uH6rvDo35aoldkvlOimvZl9lA3dCWcy17zfN
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn65/2X45udkEvy3TiKZDgGVNkFVj0o6gx5bNnvvVLQgN.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8627" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6b02cb1a15a52dee754f988b2bde6cbc.jpg" group-title="Korku", The Monkey
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn65/Mg6UPmg0T4Hl77y6FF3eSCHXDWPR1lP0v62pmToC.mp4/index.m3u8
 #EXTINF:-1 tvg-id="8626" tvg-name="Nosferatu" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c98f36b2105e7d14d7876f1255d0c9f7.jpg" group-title="Korku", Nosferatu
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -9423,10 +9439,6 @@ https://load.rectv2024live.com/hls/8/cdn444/KmrtaMUc34vTZQNGOlKzeZqzo5rolNRZzq93
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn444/HVbQHTjxtExWVYervQp3mpVMSxx4lMsxIlXyvcDi.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8417" tvg-name="The Monkey" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/855c3b5be7f462ee6ca591cfae3fa418.jpg" group-title="Korku", The Monkey
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/lQebV0oh7nVhKPiHUZ2yzkJNiTsQydDS7eVrFHyW.mp4/index.m3u8
 #EXTINF:-1 tvg-id="8399" tvg-name="Soğuk Nehir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/98298ee9ca53ee079978ef7deaeb4fb5.jpg" group-title="Korku", Soğuk Nehir
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -10007,6 +10019,10 @@ https://load.rectv2024live.com/hls/9/cdn501/b28e66cdffedf1f7e489aa5a90c10b5a1723
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/734b80008c410c537e42a74dc6c06afd17234935609.mp4/index.m3u8
+#EXTINF:-1 tvg-id="7593" tvg-name="Starve Acre" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a3c44b828ca8872467e1b8e53a319d44.jpg" group-title="Korku", Starve Acre
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/9/cdn501/26cf73bf8de4efc0523b1fccf2b9336b172349359111.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9137" tvg-name="Beowulf: Ölümsüz Savaşçı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c237a9849644595a876839c18b1e33b0.jpg" group-title="Macera", Beowulf: Ölümsüz Savaşçı
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
