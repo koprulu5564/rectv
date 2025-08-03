@@ -455,6 +455,10 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9155" tvg-name="Seven Veils" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/df123eaaf2c3af22eb6bbd8aafbd68c5.jpg" group-title="Son Filmler", Seven Veils
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/mSDlETfleFIiGS2zfnlSajSGiuqDaIJsfnpxZWac.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9154" tvg-name="Dracula - Drakula: Bir Aşk Hikayesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f677b8598399177b32068556e8aa1a35.jpg" group-title="Son Filmler", Dracula - Drakula: Bir Aşk Hikayesi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1495,14 +1499,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/VPUdctDNkzrTW8MzKXfEQafb0eBjo8ZFo4c
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/xNFrvhA8ndu6EFtoWKI6LrV0FZh54zJXxsgKPjiX.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8836" tvg-name="Görevimiz Tehlike - Son Hesaplaşma" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/aa523f31c98f50445ac52c737aa374a9.jpg" group-title="Son Filmler", Görevimiz Tehlike - Son Hesaplaşma
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/mgICqcC6V1KWjmycFaSNaEOaYYrgpdiNs70oettV.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8836" tvg-name="Görevimiz Tehlike - Son Hesaplaşma" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/aa523f31c98f50445ac52c737aa374a9.jpg" group-title="Son Filmler", Görevimiz Tehlike - Son Hesaplaşma
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/ltuaTtcUMTzHAyBgRTF4I2iHoaE4fJ9LUsr9MpiK.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-name="Samia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd75828957a56841b9b451b5dfe63569.jpg" group-title="Aile", Samia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -5887,6 +5883,10 @@ https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZh
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/2/cdn5/cdn/filmler/Contagion%20-%20Salg%C4%B1n%20izle%20-%20BolumD.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9155" tvg-name="Seven Veils" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/df123eaaf2c3af22eb6bbd8aafbd68c5.jpg" group-title="Dram", Seven Veils
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/mSDlETfleFIiGS2zfnlSajSGiuqDaIJsfnpxZWac.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9154" tvg-name="Dracula - Drakula: Bir Aşk Hikayesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f677b8598399177b32068556e8aa1a35.jpg" group-title="Dram", Dracula - Drakula: Bir Aşk Hikayesi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -6895,10 +6895,6 @@ https://load.rectv2024live.com/hls/8/cdn801/6d62dfea48fdfc27a746d1fcd7585eb61737
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn801/618ad86f18db6709af081e46ae172517173754257611.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8308" tvg-name="Nosferatu" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/bbc9ce911e6251c2b1446891a2695c9f.jpg" group-title="Dram", Nosferatu
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn801/1329fc754afd83892da2bcba16f64be8173754250312.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9154" tvg-name="Dracula - Drakula: Bir Aşk Hikayesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f677b8598399177b32068556e8aa1a35.jpg" group-title="Fantastik", Dracula - Drakula: Bir Aşk Hikayesi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
