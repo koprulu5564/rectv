@@ -455,6 +455,10 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9162" tvg-name="Jurassic World: Rebirth" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/43f1775b43b981b5079be95c56c2d543.jpg" group-title="Son Filmler", Jurassic World: Rebirth
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/Dbz3TOuUT9CU1cb20EIIPnK4fngdEqM5lw1h5Tst.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9161" tvg-name="Yıl 2000" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8dc235fa8fe7c6c631d35b907cd7fb4b.jpg" group-title="Son Filmler", Yıl 2000
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1495,10 +1499,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/9z1dTAjH89WawuCoThGjYNa1mDTIdhlNEqs
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/LdIpACTyH5SHwiGgomCHgP5SKandjJFIqNeUFOzr.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8841" tvg-name="Soğuk Rekabet" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5e09497521a2dc0284e34310c770e5d3.jpg" group-title="Son Filmler", Soğuk Rekabet
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/xYFtUtiYvOHkpYb9uGO3JIemmdhw65DO7bYVsViU.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-name="Samia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd75828957a56841b9b451b5dfe63569.jpg" group-title="Aile", Samia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -2519,6 +2519,10 @@ https://load.rectv2024live.com/7/cdn812/m/Uunchai/v.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/7/cdn812/m/Lamya/v.m3u8
+#EXTINF:-1 tvg-id="9162" tvg-name="Jurassic World: Rebirth" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/43f1775b43b981b5079be95c56c2d543.jpg" group-title="Aksiyon", Jurassic World: Rebirth
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/Dbz3TOuUT9CU1cb20EIIPnK4fngdEqM5lw1h5Tst.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9156" tvg-name="Uzay Oyunları" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4aadcda3a61dbae9598c9e4706f7f4ca.jpg" group-title="Aksiyon", Uzay Oyunları
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -3623,14 +3627,6 @@ https://load.rectv2024live.com/hls/9/cdn501/b73de5f831939598a5875da7c909fba81725
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/89f6bb1fa13a539191059c97b12da207172483490714.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7672" tvg-name="Karanlık Su" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4c7679cf3b22fd6244b7cbce173433fb.jpg" group-title="Aksiyon", Karanlık Su
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/22d62c0a2185f0109f1c48ca2bda4dc1172483305712.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7672" tvg-name="Karanlık Su" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4c7679cf3b22fd6244b7cbce173433fb.jpg" group-title="Aksiyon", Karanlık Su
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/7d8b84fa6ca62db7545390a1c5116a20172483309014.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Animasyon", Sev Beni - Love Me
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -10023,6 +10019,10 @@ https://load.rectv2024live.com/hls/9/cdn501/0fc1413df936bd6b20cf21baddbc4f221724
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/82b864b8330a2e703f63c363a690bb8817240836425.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9162" tvg-name="Jurassic World: Rebirth" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/43f1775b43b981b5079be95c56c2d543.jpg" group-title="Macera", Jurassic World: Rebirth
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/Dbz3TOuUT9CU1cb20EIIPnK4fngdEqM5lw1h5Tst.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9156" tvg-name="Uzay Oyunları" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4aadcda3a61dbae9598c9e4706f7f4ca.jpg" group-title="Macera", Uzay Oyunları
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -11079,10 +11079,6 @@ https://load.rectv2024live.com/hls/10/cdn32/8a385b0a86e5eeb595625370bf784cd91711
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/10/cdn32/82eae6066884a0e9b36e73f03b6509ac171131710414.mp4/index.m3u8
-#EXTINF:-1 tvg-id="6836" tvg-name="Wonder Woman 1984" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9d4073c77e19632deaa5257bb74c913d.jpg" group-title="Macera", Wonder Woman 1984
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/10/cdn32/68531d00eaa9bcf07465f9b6d994dda617113160075.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9160" tvg-name="Aşka Düşmek" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ada1d0fbbf6f7302a683a7fbcf6194f4.jpg" group-title="Romantik", Aşka Düşmek
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
