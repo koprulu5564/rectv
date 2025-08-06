@@ -455,6 +455,14 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9166" tvg-name="Utopia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9e0a0cf9578c0a475956e57ab0230d5f.jpg" group-title="Son Filmler", Utopia
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/jArjBm4SDAvAv9fVpoVATHhssy2S1o3MgGIQy0jC.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9165" tvg-name="Ahlaksız - Depravity" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9f3419925f79cd8c8ac61d24e3989758.jpg" group-title="Son Filmler", Ahlaksız - Depravity
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/2dmCxnLuiStpf5Ml5HAhUg8MJnaBI5xP4QhRy2n8.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9164" tvg-name="The Pickup" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/80a2882b47dd16b8919f04337902f4a2.jpg" group-title="Son Filmler", The Pickup
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1491,14 +1499,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/37tsAdgKn9j5WNExxmuYgRWb32LdWW3lZOT
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/emq6DWA68EeNikpc57qwk6opHBmtMKmJskLkwuwn.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8845" tvg-name="Şeytanın İni" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c9d91bff1793f8a523130e9cf20782e6.jpg" group-title="Son Filmler", Şeytanın İni
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/L9AJvFeNbqM38uNojWbqe8Id254D5kBqAkVve1nm.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8844" tvg-name="Gatlopp: Hell of a Game" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/31d3eaa6b59f1f5294e2d21d74cd0ba3.jpg" group-title="Son Filmler", Gatlopp: Hell of a Game
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/h3COSvRWYqiuhOWyFcsY53bIpHDlP0hfH5WucZjL.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-name="Samia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd75828957a56841b9b451b5dfe63569.jpg" group-title="Aile", Samia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -2519,6 +2519,10 @@ https://load.rectv2024live.com/7/cdn812/m/Uunchai/v.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/7/cdn812/m/Lamya/v.m3u8
+#EXTINF:-1 tvg-id="9166" tvg-name="Utopia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9e0a0cf9578c0a475956e57ab0230d5f.jpg" group-title="Aksiyon", Utopia
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/jArjBm4SDAvAv9fVpoVATHhssy2S1o3MgGIQy0jC.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9164" tvg-name="The Pickup" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/80a2882b47dd16b8919f04337902f4a2.jpg" group-title="Aksiyon", The Pickup
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -3623,10 +3627,6 @@ https://load.rectv2024live.com/hls/9/cdn501/6e8e3152552047462a898df856d479d81725
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/d2efe2e6ec1979550efb7ebac57957c4172531426911.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7684" tvg-name="Arıcı: Ölüm Kovanı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/1ef9c3e79de640fdac75a5c11faaee30.jpg" group-title="Aksiyon", Arıcı: Ölüm Kovanı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/b73de5f831939598a5875da7c909fba8172517421310.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Animasyon", Sev Beni - Love Me
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
