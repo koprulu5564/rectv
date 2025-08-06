@@ -455,6 +455,14 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9164" tvg-name="The Pickup" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/80a2882b47dd16b8919f04337902f4a2.jpg" group-title="Son Filmler", The Pickup
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/f5r5pogI053lHmfgFnTRK9FiGZ8dPBcuFRe8428W.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9163" tvg-name="Heldin" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/569da0eefffd2b70a06b731029df39c3.jpg" group-title="Son Filmler", Heldin
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/MnY0Yyy4ASJgYKuE8jNpCUEAaJhWca1EvRpxDMTb.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9162" tvg-name="Jurassic World: Rebirth" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/43f1775b43b981b5079be95c56c2d543.jpg" group-title="Son Filmler", Jurassic World: Rebirth
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1491,14 +1499,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/L9AJvFeNbqM38uNojWbqe8Id254D5kBqAkV
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/h3COSvRWYqiuhOWyFcsY53bIpHDlP0hfH5WucZjL.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8843" tvg-name="Dokunmak" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cfd1e4de3fe1cd8eebae548ac5614960.jpg" group-title="Son Filmler", Dokunmak
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/9z1dTAjH89WawuCoThGjYNa1mDTIdhlNEqstCIIE.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8842" tvg-name="Soğuk Rekabet 2" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c0e1f8f40c052e71ca9f29963990833b.jpg" group-title="Son Filmler", Soğuk Rekabet 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/LdIpACTyH5SHwiGgomCHgP5SKandjJFIqNeUFOzr.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-name="Samia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd75828957a56841b9b451b5dfe63569.jpg" group-title="Aile", Samia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -2519,6 +2519,10 @@ https://load.rectv2024live.com/7/cdn812/m/Uunchai/v.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/7/cdn812/m/Lamya/v.m3u8
+#EXTINF:-1 tvg-id="9164" tvg-name="The Pickup" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/80a2882b47dd16b8919f04337902f4a2.jpg" group-title="Aksiyon", The Pickup
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/f5r5pogI053lHmfgFnTRK9FiGZ8dPBcuFRe8428W.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9162" tvg-name="Jurassic World: Rebirth" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/43f1775b43b981b5079be95c56c2d543.jpg" group-title="Aksiyon", Jurassic World: Rebirth
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -3623,10 +3627,6 @@ https://load.rectv2024live.com/hls/9/cdn501/d2efe2e6ec1979550efb7ebac57957c41725
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/b73de5f831939598a5875da7c909fba8172517421310.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7673" tvg-name="Escape" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c1fc03f1d5e70b25393ae4c5ec55342f.jpg" group-title="Aksiyon", Escape
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/89f6bb1fa13a539191059c97b12da207172483490714.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Animasyon", Sev Beni - Love Me
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -5879,6 +5879,10 @@ https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZh
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/2/cdn5/cdn/filmler/Contagion%20-%20Salg%C4%B1n%20izle%20-%20BolumD.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9163" tvg-name="Heldin" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/569da0eefffd2b70a06b731029df39c3.jpg" group-title="Dram", Heldin
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/MnY0Yyy4ASJgYKuE8jNpCUEAaJhWca1EvRpxDMTb.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9160" tvg-name="Aşka Düşmek" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ada1d0fbbf6f7302a683a7fbcf6194f4.jpg" group-title="Dram", Aşka Düşmek
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -6887,10 +6891,6 @@ https://load.rectv2024live.com/hls/8/cdn801/7c1563a412e9baf4033128f210a6c3091737
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn801/b92d90e5778e0f837242e75ede0e82ae17376287457.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8311" tvg-name="Modern Persuasion" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/06a870658b3b4d9b55a7cf04256e3a90.jpg" group-title="Dram", Modern Persuasion
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn801/6d62dfea48fdfc27a746d1fcd7585eb6173762875910.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9154" tvg-name="Dracula - Drakula: Bir Aşk Hikayesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f677b8598399177b32068556e8aa1a35.jpg" group-title="Fantastik", Dracula - Drakula: Bir Aşk Hikayesi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -7943,6 +7943,10 @@ https://load.rectv2024live.com/hls/1/cdn783/m/TheIronMask.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/1/cdn783/m/Dampyr2023.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9164" tvg-name="The Pickup" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/80a2882b47dd16b8919f04337902f4a2.jpg" group-title="Komedi", The Pickup
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/f5r5pogI053lHmfgFnTRK9FiGZ8dPBcuFRe8428W.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9161" tvg-name="Yıl 2000" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8dc235fa8fe7c6c631d35b907cd7fb4b.jpg" group-title="Komedi", Yıl 2000
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8951,10 +8955,6 @@ https://load.rectv2024live.com/hls/11/cdn62/92a47e127aa18f0a6fed71848022a2501731
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/61f54185c615099f2955f664b05bce86173140775514.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8011" tvg-name="Umjolo: The Gone Girl" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/1a69edcce1966a0e5434f670349fb067.jpg" group-title="Komedi", Umjolo: The Gone Girl
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/8e8cee756ea9f4f2c35d0be6526c8a60173106199215.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9161" tvg-name="Yıl 2000" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8dc235fa8fe7c6c631d35b907cd7fb4b.jpg" group-title="Korku", Yıl 2000
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
