@@ -2,15 +2,15 @@
 #EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/pl1.m3u8
+https://1.cf5-2c8.workers.dev/static/pl1.m3u8?ad=random
 #EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/pl2.m3u8
+https://1.cf5-2c8.workers.dev/static/pl2.m3u8?ad=random
 #EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/pl3.m3u8
+https://1.cf5-2c8.workers.dev/static/pl3.m3u8?ad=random
 #EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -50,43 +50,43 @@ https://tv.arectv34.sbs/live/tabi6.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı Yayınlar", Bein Sports 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/bs1.m3u8
+https://1.cf5-2c8.workers.dev/static/bs1.m3u8?ad=random
 #EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı Yayınlar", Bein Sports 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/bs11.m3u8
+https://1.cf5-2c8.workers.dev/static/bs11.m3u8?ad=random
 #EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 2" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Canlı Yayınlar", Bein Sports 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/bs2.m3u8
+https://1.cf5-2c8.workers.dev/static/bs2.m3u8?ad=random
 #EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="Canlı Yayınlar", Bein Sports 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/bs3.m3u8
+https://1.cf5-2c8.workers.dev/static/bs3.m3u8?ad=random
 #EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="Canlı Yayınlar", Bein Sports 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/bs4.m3u8
+https://1.cf5-2c8.workers.dev/static/bs4.m3u8?ad=random
 #EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 5" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="Canlı Yayınlar", Bein Sports 5
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/bs5.m3u8
+https://1.cf5-2c8.workers.dev/static/bs5.m3u8?ad=random
 #EXTINF:-1 tvg-id="144" tvg-name="Bein Sports Max 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="Canlı Yayınlar", Bein Sports Max 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv.arectv34.sbs/live/bm1.m3u8
+https://tv.arectv34.sbs/live/bm1.m3u8?ad=random
 #EXTINF:-1 tvg-id="142" tvg-name="Bein Sports Max 2" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="Canlı Yayınlar", Bein Sports Max 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv.arectv34.sbs/live/bm2.m3u8
+https://tv.arectv34.sbs/live/bm2.m3u8?ad=random
 #EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="Canlı Yayınlar", S SPORT 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/ss11.m3u8
+https://1.cf5-2c8.workers.dev/static/ss11.m3u8?ad=random
 #EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="Canlı Yayınlar", S SPORT 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/static/ss2.m3u8
+https://1.cf5-2c8.workers.dev/static/ss2.m3u8?ad=random
 #EXTINF:-1 tvg-id="139" tvg-name="Spor Smart 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="Canlı Yayınlar", Spor Smart 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -134,7 +134,7 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="Nba TV" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="Canlı Yayınlar", Nba TV
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.cf5-2c8.workers.dev/list/yayinnbatv.m3u8
+https://tv.arectv34.sbs/live/yayinnbatv.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="HT SPOR HD" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/3173922d598840a24005bc0c04cc926e.jpg" group-title="Canlı Yayınlar", HT SPOR HD
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -455,6 +455,18 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9171" tvg-name="Asrın Elmas Soygunu" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e5121c3c1d7ce77217e40d871c1f7e8a.jpg" group-title="Son Filmler", Asrın Elmas Soygunu
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/qistnXWGXKjVeFfRfVISyPpXpy7yuY4zdu5TcDH3.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9170" tvg-name="Sally" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7452664ba8112c695a57ebeac0d99f6c.jpg" group-title="Son Filmler", Sally
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/iLTibdnUCdWA4C4eWWQfgUAmDaaV9vZhfLdhuR7i.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9169" tvg-name="Rafadan Tayfa: Kapadokya" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd0b1c0317bf82033e01f272f80873a0.jpg" group-title="Son Filmler", Rafadan Tayfa: Kapadokya
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/d1hbKLMfs92MqSPKuCYrieRPosTcIPmm59s5S5Mi.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9168" tvg-name="Kneecap" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2c31283eafef91bc890644063ba3c116.jpg" group-title="Son Filmler", Kneecap
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1487,18 +1499,10 @@ https://load.rectv2024live.com/hls/8/cdn1611/qyX11vx8TFKf2toxQ7LIhoCpBlLvQrfa6PV
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/OnVJ1HNaAjvJBM7Fwz9KpBP6ISvhsEwZEBPHrsA9.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8850" tvg-name="Nemlizade" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d330972be902e490f3de99aec28ff77b.jpg" group-title="Son Filmler", Nemlizade
+#EXTINF:-1 tvg-id="9169" tvg-name="Rafadan Tayfa: Kapadokya" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd0b1c0317bf82033e01f272f80873a0.jpg" group-title="Aile", Rafadan Tayfa: Kapadokya
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/Y5hZnMi1MM5zgGQss2bFAzwWwpaayGuK6pqKoZoa.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8849" tvg-name="Rosario" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e6fae48bedd25e142512bc79302a2932.jpg" group-title="Son Filmler", Rosario
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/kdVyrNiXr5njd9SXaKrNQLxdFvbFwsA9JHK6RiFI.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8848" tvg-name="Mickey 17" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/aed46d1d98ac203cc2b09ba3c169c608.jpg" group-title="Son Filmler", Mickey 17
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/37tsAdgKn9j5WNExxmuYgRWb32LdWW3lZOTW1WKE.mp4/index.m3u8
+https://load.rectv2024live.com/hls/7/cdn21/d1hbKLMfs92MqSPKuCYrieRPosTcIPmm59s5S5Mi.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9144" tvg-name="Samia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd75828957a56841b9b451b5dfe63569.jpg" group-title="Aile", Samia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -2515,10 +2519,6 @@ https://load.rectv2024live.com/7/cdn812/m/SuperMarioKardesler/v.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/7/cdn812/m/Uunchai/v.m3u8
-#EXTINF:-1 tvg-id="5233" tvg-name="Lamya'nın Şiiri" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/62e63ed5a1dec7eeba99ade83958cf6d.jpg" group-title="Aile", Lamya'nın Şiiri
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/Lamya/v.m3u8
 #EXTINF:-1 tvg-id="9166" tvg-name="Utopia" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9e0a0cf9578c0a475956e57ab0230d5f.jpg" group-title="Aksiyon", Utopia
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -3627,6 +3627,10 @@ https://load.rectv2024live.com/hls/9/cdn501/6e8e3152552047462a898df856d479d81725
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/d2efe2e6ec1979550efb7ebac57957c4172531426911.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9169" tvg-name="Rafadan Tayfa: Kapadokya" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd0b1c0317bf82033e01f272f80873a0.jpg" group-title="Animasyon", Rafadan Tayfa: Kapadokya
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/d1hbKLMfs92MqSPKuCYrieRPosTcIPmm59s5S5Mi.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9138" tvg-name="Sev Beni - Love Me" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6ecb8d7958fa318277e9f08101502c45.jpg" group-title="Animasyon", Sev Beni - Love Me
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -4635,10 +4639,14 @@ https://load.rectv2024live.com/hls/4/cdn1/Filmler/Dublaj/2023/dreambuilders.mp4/
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/5/cdn17/Film/kocaayak-ve-oglu-film.mp4/index.m3u8
-#EXTINF:-1 tvg-id="4387" tvg-name="Kocaayak ve Ailesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/da0bc92cffc343e6ea4a866b1a04c4a9.jpg" group-title="Animasyon", Kocaayak ve Ailesi
+#EXTINF:-1 tvg-id="9171" tvg-name="Asrın Elmas Soygunu" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e5121c3c1d7ce77217e40d871c1f7e8a.jpg" group-title="Belgesel Filmleri", Asrın Elmas Soygunu
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/5/cdn17/Film/bigfoot-family.mp4/index.m3u8
+https://load.rectv2024live.com/hls/7/cdn21/qistnXWGXKjVeFfRfVISyPpXpy7yuY4zdu5TcDH3.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9170" tvg-name="Sally" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7452664ba8112c695a57ebeac0d99f6c.jpg" group-title="Belgesel Filmleri", Sally
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/iLTibdnUCdWA4C4eWWQfgUAmDaaV9vZhfLdhuR7i.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9042" tvg-name="Felaketler Dizisi: 17.000 Davetsiz Misafir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c3fc2216fbf7cf5b6cb8a413e5bc5be1.jpg" group-title="Belgesel Filmleri", Felaketler Dizisi: 17.000 Davetsiz Misafir
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
