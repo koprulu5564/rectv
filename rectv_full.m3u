@@ -479,6 +479,10 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9185" tvg-name="Yem" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4c87bfd204286121fcad066f57c8b6bb.jpg" group-title="Son Filmler", Yem
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/VZQc3Bt444NN2hBJ6xEFDYTMq3ITukhc5jTNzvyp.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9183" tvg-name="The Naked Gun" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2d5621f9bc9747bc89aa18676f427c18.jpg" group-title="Son Filmler", The Naked Gun
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1523,10 +1527,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/fD11kBsnimkVke6P6rJoiv0MF070MSNFovJ
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/c4vNbeM7g5qAIbsg9iCwUGDDf1uu39GylPONFj6r.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8867" tvg-name="Öldüm Bittim" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9e17c6d561388d1b26f3755666609ff2.jpg" group-title="Son Filmler", Öldüm Bittim
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/IogUVxFhHW7p3YrE4G4VUFfeT4XW2TRKUgfYdb7U.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9169" tvg-name="Rafadan Tayfa: Kapadokya" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd0b1c0317bf82033e01f272f80873a0.jpg" group-title="Aile", Rafadan Tayfa: Kapadokya
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8983,6 +8983,10 @@ https://load.rectv2024live.com/hls/11/cdn62/af371a64468625fb782d2bf280f858941732
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/678c74e9c0739ee0936be4e1332e4fa617321339269.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9185" tvg-name="Yem" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4c87bfd204286121fcad066f57c8b6bb.jpg" group-title="Korku", Yem
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/VZQc3Bt444NN2hBJ6xEFDYTMq3ITukhc5jTNzvyp.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9180" tvg-name="Kurtlar Kapıda" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/02dcd95de83608dcaec0ca0a23b603c2.jpg" group-title="Korku", Kurtlar Kapıda
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -10039,10 +10043,6 @@ https://load.rectv2024live.com/hls/9/cdn501/cdec5d3a997de2ec35138056723be2971725
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/2c927a31072eeebcb4ef06caee786e4317250879005.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7668" tvg-name="Oddity" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5caac707c5cc9da3c816bc64aea9b6b0.jpg" group-title="Korku", Oddity
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/e31d53e59ab8d2618c76e53af5eeea2917246549066.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9162" tvg-name="Jurassic World: Rebirth" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/43f1775b43b981b5079be95c56c2d543.jpg" group-title="Macera", Jurassic World: Rebirth
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
