@@ -67,6 +67,10 @@ https://tv.arectv34.sbs/live/tabi5.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv.arectv34.sbs/live/tabi6.m3u8
+#EXTINF:-1 tvg-id="150" tvg-name="EXXEN SPOR" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/c99fab5ff1f02a2c2ec30e95ede72ce8.jpg" group-title="Canlı Yayınlar", EXXEN SPOR
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://andro.yangin1yerihep2sayende.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı Yayınlar", Bein Sports 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
