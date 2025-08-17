@@ -7,7 +7,7 @@ import sys
 from typing import Dict, List, Optional, Set
 
 # API Konfigürasyon
-DEFAULT_BASE_URL = 'https://m.prectv52.lol'
+DEFAULT_BASE_URL = 'https://m.prectv50.sbs'
 SOURCE_URL = 'https://raw.githubusercontent.com/kerimmkirac/cs-kerim2/main/RecTV/src/main/kotlin/com/kerimmkirac/RecTV.kt'
 API_KEY = '4F5A9C3D9A86FA54EACEDDD635185/c3c5bd17-e37b-4b94-a944-8a3688a30452'
 SUFFIX = f'/{API_KEY}'
