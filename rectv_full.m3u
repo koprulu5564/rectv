@@ -1,137 +1,301 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5936" tvg-name="Karlar Kraliçesi 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/451df1dd84575386849423b56d47d36a.jpg" group-title="Aile", Karlar Kraliçesi 2
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/4/KarlarKralicesi2.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5935" tvg-name="Karlar Kraliçesi" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/f58d689761789e54033d3020bfab439d.jpg" group-title="Aile", Karlar Kraliçesi
+https://1.cf21-2c8.workers.dev/static/pl1.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/4/KarlarKralicesi.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5912" tvg-name="Su Koruyucuları: Geleceğin Beşlisi" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/3825c4069ea937c771ce374f889c4e32.jpg" group-title="Aile", Su Koruyucuları: Geleceğin Beşlisi
+https://1.cf21-2c8.workers.dev/static/pl2.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/3/SuKoruyuculariGeleceginBeslisi.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5888" tvg-name="Gizli Merkez" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/fac3fe369fc7a31246a80652ba6cf7f2.jpg" group-title="Aile", Gizli Merkez
+https://1.cf21-2c8.workers.dev/static/pl3.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/3/SecretHeadquarters.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5816" tvg-name="Dahi Prens" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/9edca3f3282e51e3bded5936058d55ea.jpg" group-title="Aile", Dahi Prens
+https://1.cf21-2c8.workers.dev/static/pl4.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/1/GeekCharming.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5759" tvg-name="Benim Tatlı Diş Perim" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/e43b9909c29b8a3ed40234ff6f818f3b.jpg" group-title="Aile", Benim Tatlı Diş Perim
+https://1.cf21-2c8.workers.dev/static/pl5.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/MeineChaosfeeich/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5745" tvg-name="Demiryolu Çocuklarının Dönüşü" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/565f928c08b56a4bf45cfc28fb707042.jpg" group-title="Aile", Demiryolu Çocuklarının Dönüşü
+https://1.cf21-2c8.workers.dev/static/pl6.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/1/DemiryoluCocuklari.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5735" tvg-name="Spy Kids: Armageddon" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/cb94e445f132797b44aece1b2a02134f.jpg" group-title="Aile", Spy Kids: Armageddon
+https://1.cf21-2c8.workers.dev/static/pl7.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="160" tvg-name="S Sport Plus" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="Canlı Yayınlar", S Sport Plus
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/1/CilginCocuklar.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5690" tvg-name="Mucize: Uğur Böceği ile Kara Kedi, Film" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/2e90b3fe885050a8888fbc655ff0da60.jpg" group-title="Aile", Mucize: Uğur Böceği ile Kara Kedi, Film
+https://1.cf21-2c8.workers.dev/static/pl8.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/MucizeugurBocegiileKaraKedi/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5683" tvg-name="Carl's Date" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/cd922c992c1169a05531b5a889646bb7.jpg" group-title="Aile", Carl's Date
+https://tv.prectv53.lol/live/tabi.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/CarlsDate/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5648" tvg-name="Gizemli Ada Mençuna" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/6d5aa720a0b4c6f0203dd1d8506d4b12.jpg" group-title="Aile", Gizemli Ada Mençuna
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/GizemliAdaMencuna/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5643" tvg-name="Küçük Deniz Kızı" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/390ad151ed512629fbef561ab0e06099.jpg" group-title="Aile", Küçük Deniz Kızı
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web&?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/the-little-mermaid-hdfc-7/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5619" tvg-name="Süper Mario Kardeşler Filmi" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/ac13fbc81e5ac8affd4ed0bcd3d0b1ef.jpg" group-title="Aile", Süper Mario Kardeşler Filmi
+https://tv.prectv53.lol/live/tabi1.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/new/SuperMario.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5604" tvg-name="Çin'e Yolculuk: Demir Maskenin Gizemi" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/08d9d6ef4c68eff1376aa42ada6f9cad.jpg" group-title="Aile", Çin'e Yolculuk: Demir Maskenin Gizemi
+https://tv.prectv53.lol/live/tabi2.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/TheIronMask.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5572" tvg-name="Maymun Kral" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/63b2ea5c4d4bb2249dae5519f650bb37.jpg" group-title="Aile", Maymun Kral
+https://tv.prectv53.lol/live/tabi3.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/TheMonkeyKing.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5564" tvg-name="Aşk Adası" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/6fabadf57cfb10f27f61f1c901e5859c.jpg" group-title="Aile", Aşk Adası
+https://tv.prectv53.lol/live/tabi4.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/LoveWrecked.mp4/index.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5556" tvg-name="Maske 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/1fc60cd771d4b71109cfe446a5003f2c.jpg" group-title="Aile", Maske 2
+https://tv.prectv53.lol/live/tabi5.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="157" tvg-name="TABİİ SPOR" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="Canlı Yayınlar", TABİİ SPOR
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/mask2/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5555" tvg-name="Arı Maya 3: Altın Küre" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/9272bf81a0caed205d418b3a28f61296.jpg" group-title="Aile", Arı Maya 3: Altın Küre
+https://tv.prectv53.lol/live/tabi6.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı Yayınlar", Bein Sports 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/arimaya3/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5545" tvg-name="Cesur İtfaiyeci" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/93b5dc8119c43acbf6dbb3ac5c8c19b4.jpg" group-title="Aile", Cesur İtfaiyeci
+https://1.cf21-2c8.workers.dev/static/bs1.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="149" tvg-name="Bein Sports 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="Canlı Yayınlar", Bein Sports 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/fireheart/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5545" tvg-name="Cesur İtfaiyeci" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/93b5dc8119c43acbf6dbb3ac5c8c19b4.jpg" group-title="Aile", Cesur İtfaiyeci
+https://1.cf21-2c8.workers.dev/static/bs11.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="148" tvg-name="Bein Sports 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="Canlı Yayınlar", Bein Sports 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/fireheartalt/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5501" tvg-name="Küçük Deniz Kızı" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/13675c870a5bbbadd5aa2b3c1c9c39d6.jpg" group-title="Aile", Küçük Deniz Kızı
+https://1.cf21-2c8.workers.dev/static/bs2.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="147" tvg-name="Bein Sports 3" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="Canlı Yayınlar", Bein Sports 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/TheLittleMermaid/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5500" tvg-name="Asteriks ve Oburiks: Orta Krallık" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/ea45048685f713afd019273b8dedffa3.jpg" group-title="Aile", Asteriks ve Oburiks: Orta Krallık
+https://1.cf21-2c8.workers.dev/static/bs3.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="146" tvg-name="Bein Sports 4" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="Canlı Yayınlar", Bein Sports 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/AsteriksveOburiksOrta/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5469" tvg-name="Ejderham ve Ben" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/28e5e6a296c79dbdfc04e3b93259418d.jpg" group-title="Aile", Ejderham ve Ben
+https://1.cf21-2c8.workers.dev/static/bs4.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="145" tvg-name="Bein Sports 5" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="Canlı Yayınlar", Bein Sports 5
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/dragonrider/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5469" tvg-name="Ejderham ve Ben" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/28e5e6a296c79dbdfc04e3b93259418d.jpg" group-title="Aile", Ejderham ve Ben
+https://1.cf21-2c8.workers.dev/static/bs5.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="144" tvg-name="Bein Sports Max 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="Canlı Yayınlar", Bein Sports Max 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/dragonrideralt/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5451" tvg-name="Ainbo" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/c71f9480c8b6cb7832b9a2e2bfbeaa8b.jpg" group-title="Aile", Ainbo
+https://tv.prectv53.lol/live/bm1.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports Max 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="Canlı Yayınlar", Bein Sports Max 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/ainbo/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5429" tvg-name="Mumyalar" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/1909b5cfcd9b6acbea3da15eb8d12a82.jpg" group-title="Aile", Mumyalar
+https://tv.prectv53.lol/live/bm2.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="141" tvg-name="S SPORT 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="Canlı Yayınlar", S SPORT 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/Mummies/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5416" tvg-name="Dünyanın En İyisi" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/5c4cb57176fbd2519042cd5735972bd0.jpg" group-title="Aile", Dünyanın En İyisi
+https://1.cf21-2c8.workers.dev/static/ss11.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="140" tvg-name="S SPORT 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="Canlı Yayınlar", S SPORT 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/dunyanineniyisi/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5414" tvg-name="Muhteşem Kedi Maurice" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/14a09b762d57bb7172ba2bcf2d4d7e04.jpg" group-title="Aile", Muhteşem Kedi Maurice
+https://1.cf21-2c8.workers.dev/static/ss2.m3u8?ad=random?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="139" tvg-name="Spor Smart 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="Canlı Yayınlar", Spor Smart 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/muhtesemkedimaurice/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5414" tvg-name="Muhteşem Kedi Maurice" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/14a09b762d57bb7172ba2bcf2d4d7e04.jpg" group-title="Aile", Muhteşem Kedi Maurice
+https://tv.prectv53.lol/live/smart1.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="138" tvg-name="Spor Smart 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" group-title="Canlı Yayınlar", Spor Smart 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/muhkedimauricealt/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5372" tvg-name="Çizmeli Kedi: Son Dilek" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/00e94ab4568eb6dee7a12151de1161ec.jpg" group-title="Aile", Çizmeli Kedi: Son Dilek
+https://tv.prectv53.lol/live/smart2.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="137" tvg-name="Euro Sport 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" group-title="Canlı Yayınlar", Euro Sport 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/PussInBoots/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5372" tvg-name="Çizmeli Kedi: Son Dilek" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/00e94ab4568eb6dee7a12151de1161ec.jpg" group-title="Aile", Çizmeli Kedi: Son Dilek
+https://tv.prectv53.lol/live/euro1.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="135" tvg-name="Euro Sport 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png" group-title="Canlı Yayınlar", Euro Sport 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/cizmelikedialt/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5312" tvg-name="Kuğu Prenses: Bir Peri Masalı Doğuyor" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/e3e8273594be99f04daa89c2f63f41f0.jpg" group-title="Aile", Kuğu Prenses: Bir Peri Masalı Doğuyor
+https://tv.prectv53.lol/live/euro2.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="134" tvg-name="Tivibu Spor 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" group-title="Canlı Yayınlar", Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/kuguprensesbirperimasalidoguyor/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5283" tvg-name="Blueback" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/f8e3dbe4c6827e6ebf0a951fddd1aab2.jpg" group-title="Aile", Blueback
+https://tv.prectv53.lol/live/t1.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="133" tvg-name="Tivibu Spor 2" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" group-title="Canlı Yayınlar", Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/BluebackOkyanustakiDost/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
-#EXTINF:-1 tvg-id="5270" tvg-name="Krater" tvg-logo="https://m.prectv51.sbs/uploads/cache/poster_thumb/uploads/jpg/374c8a6b9d504e3ca33770987ae7858a.jpg" group-title="Aile", Krater
+https://tv.prectv53.lol/live/t2.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="132" tvg-name="Tivibu Spor 3" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" group-title="Canlı Yayınlar", Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/Crater/v.m3u8?token=fR7RFPmoduBjRtVW3_ZuBQ&tms=1755479470
+https://tv.prectv53.lol/live/t3.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="131" tvg-name="Trt Spor HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg" group-title="Canlı Yayınlar", Trt Spor HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web&?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="130" tvg-name="A Spor HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="Canlı Yayınlar", A Spor HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/aspor.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="129" tvg-name="GS TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg" group-title="Canlı Yayınlar", GS TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="128" tvg-name="FB TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg" group-title="Canlı Yayınlar", FB TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="127" tvg-name="Nba TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="Canlı Yayınlar", Nba TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/yayinnbatv.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="126" tvg-name="HT SPOR HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/3173922d598840a24005bc0c04cc926e.jpg" group-title="Canlı Yayınlar", HT SPOR HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=675956db19f9bb686edda21d15d911e8&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="122" tvg-name="Sports TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg" group-title="Canlı Yayınlar", Sports TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="121" tvg-name="EKOL SPORT" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/80d8999029533191ed8383fb12ccf042.jpg" group-title="Canlı Yayınlar", EKOL SPORT
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="114" tvg-name="TRT 1" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="Canlı Yayınlar", TRT 1
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web&?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="113" tvg-name="STAR TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg" group-title="Canlı Yayınlar", STAR TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://dogus-live.daioncdn.net/startv/startv.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="112" tvg-name="KANAL D" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="Canlı Yayınlar", KANAL D
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="111" tvg-name="SHOW TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="Canlı Yayınlar", SHOW TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8?token=M-7mrTKFgq91xCy6T_nf3Q&tms=1755460951
+#EXTINF:-1 tvg-id="110" tvg-name="ATV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="Canlı Yayınlar", ATV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/atv.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="109" tvg-name="TV 8 HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg" group-title="Canlı Yayınlar", TV 8 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="108" tvg-name="TV 8.5" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/48ec74f19b2e7707d89f70ace71eae1c.jpg" group-title="Canlı Yayınlar", TV 8.5
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/tv85.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="107" tvg-name="FOX TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg" group-title="Canlı Yayınlar", FOX TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="106" tvg-name="KANAL 7" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/9ebd243aafd11f7e8bd8409e04a13860.jpg" group-title="Canlı Yayınlar", KANAL 7
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="105" tvg-name="BEYAZ TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png" group-title="Canlı Yayınlar", BEYAZ TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="103" tvg-name="TEVE 2 HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/2cf916833b3c64448b36830d2b238685.png" group-title="Canlı Yayınlar", TEVE 2 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="102" tvg-name="TRT HABER HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/d066e7368bc1ea6388e912650ec7354c.png" group-title="Canlı Yayınlar", TRT HABER HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="101" tvg-name="HABER TURK HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/8cc654161cccc4a0b183615672809444.jpg" group-title="Canlı Yayınlar", HABER TURK HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="100" tvg-name="A HABER HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/dc748243e0ce52f5315946c0f26f50fe.jpg" group-title="Canlı Yayınlar", A HABER HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/ahaber.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="99" tvg-name="CNN TURK HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/59310b5017a91855a65fd3993f085710.jpg" group-title="Canlı Yayınlar", CNN TURK HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/cnnturk.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="98" tvg-name="NTV HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/fc2233de54eddcc4b38e07e8eedb8446.jpg" group-title="Canlı Yayınlar", NTV HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="97" tvg-name="24 HABER HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="Canlı Yayınlar", 24 HABER HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.ensonhaber.com/tv24/tv24.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="96" tvg-name="BLOOMBERG HT HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/fe34ebd140199c087be663e2c57ceb2f.jpg" group-title="Canlı Yayınlar", BLOOMBERG HT HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="95" tvg-name="HALK TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/ba872632eff716bff680517fd72de5fd.jpg" group-title="Canlı Yayınlar", HALK TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="94" tvg-name="HABER GLOBAL" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/aa5d0e853efaf9070117c772c4db6358.jpg" group-title="Canlı Yayınlar", HABER GLOBAL
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="93" tvg-name="TGRT HABER HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/fb4488783f29ccc9b6873395f6c001bd.jpg" group-title="Canlı Yayınlar", TGRT HABER HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="89" tvg-name="NATIONAL GEO HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="Canlı Yayınlar", NATIONAL GEO HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://saran-live.ercdn.net/natgeohd/index.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="88" tvg-name="NATIONAL GEO WILD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="Canlı Yayınlar", NATIONAL GEO WILD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://saran-live.ercdn.net/natgeowild/index.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="87" tvg-name="HISTORY CHANNEL" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="Canlı Yayınlar", HISTORY CHANNEL
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/history.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="86" tvg-name="BBC EARTH HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" group-title="Canlı Yayınlar", BBC EARTH HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/bbc.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="85" tvg-name="TARİH TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="Canlı Yayınlar", TARİH TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/tarihtv.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="84" tvg-name="Docubox" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" group-title="Canlı Yayınlar", Docubox
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/docubox.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="83" tvg-name="TLC" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" group-title="Canlı Yayınlar", TLC
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="82" tvg-name="EKOL TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/jpg/2adaac7b2a1e39ca67dc34115ce40f3c.jpg" group-title="Canlı Yayınlar", EKOL TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="81" tvg-name="DMAX HD" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" group-title="Canlı Yayınlar", DMAX HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="80" tvg-name="YABAN TV" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/717339637240b8d0ade5063ae8a18fcd.png" group-title="Canlı Yayınlar", YABAN TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/yaban.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="79" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" group-title="Canlı Yayınlar", DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/discovery.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
+#EXTINF:-1 tvg-id="78" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://m.prectv51.sbs/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" group-title="Canlı Yayınlar", DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv.prectv53.lol/live/discs.m3u8?token=3vcE6lQXeLIuLDM3gcroDA&tms=1755497951
